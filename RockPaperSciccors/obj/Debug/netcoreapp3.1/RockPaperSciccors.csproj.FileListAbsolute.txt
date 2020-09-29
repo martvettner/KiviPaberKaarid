@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\bin\Debug\netcoreapp3.1\RockPaperSciccors.exe
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\bin\Debug\netcoreapp3.1\RockPaperSciccors.deps.json
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\bin\Debug\netcoreapp3.1\RockPaperSciccors.runtimeconfig.json
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\bin\Debug\netcoreapp3.1\RockPaperSciccors.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\bin\Debug\netcoreapp3.1\RockPaperSciccors.dll
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\bin\Debug\netcoreapp3.1\RockPaperSciccors.pdb
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\obj\Debug\netcoreapp3.1\RockPaperSciccors.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\obj\Debug\netcoreapp3.1\RockPaperSciccors.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\obj\Debug\netcoreapp3.1\RockPaperSciccors.AssemblyInfo.cs
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\obj\Debug\netcoreapp3.1\RockPaperSciccors.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\obj\Debug\netcoreapp3.1\RockPaperSciccors.dll
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\obj\Debug\netcoreapp3.1\RockPaperSciccors.pdb
+C:\Users\opilane\source\repos\RockPaperSciccors\RockPaperSciccors\obj\Debug\netcoreapp3.1\RockPaperSciccors.genruntimeconfig.cache
